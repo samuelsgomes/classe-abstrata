@@ -1,6 +1,6 @@
 namespace classe_usando_abstract
 {
-    public class Aluno
+    public class Aluno : Pessoa
     {
         public override void Apresentar(string nome, int idade)
     {
