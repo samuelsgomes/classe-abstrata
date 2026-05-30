@@ -1,6 +1,12 @@
 ﻿using classe_usando_abstract;
 using Documents.classe_usando_abstract;
 
+//Professor professor = new Professor();
+//professor.Apresentar("Carlos", 40);
+
+//Aluno aluno = new Aluno();
+//aluno.Apresentar("João", 16);
+
 // Nokia nokia = new Nokia();
 // nokia.Numero = "5498136-1461";
 // nokia.Modelo = "Nokia Tijolão";
