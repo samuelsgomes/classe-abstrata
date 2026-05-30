@@ -49,10 +49,27 @@ using Documents.classe_usando_abstract;
 // Console.WriteLine(posicao);
 
 ////////////////// DESAFIO 3 ///////////////////////////
-double A = double.Parse(Console.ReadLine());
-double B = double.Parse(Console.ReadLine());
-double C = double.Parse(Console.ReadLine());
+//double A = double.Parse(Console.ReadLine());
+//double B = double.Parse(Console.ReadLine());
+//double C = double.Parse(Console.ReadLine());
 
-double media = ((A * 2) + (B * 3) + (C * 5)) / 10;
+//double media = ((A * 2) + (B * 3) + (C * 5)) / 10;
 
-Console.WriteLine("MEDIA = " + media);
+//Console.WriteLine("MEDIA = " + media);
+
+
+///////////////// DESAFIO 4 /////////////////////////////
+//int n = int.Parse(Console.ReadLine());
+//for (int i = 0; i < n; i++)
+//{
+//int x = int.Parse(Console.ReadLine());
+//int y = int.Parse(Console.ReadLine());
+
+//if (y == 0)
+//{
+ // Console.WriteLine("divisao impossivel");
+//}
+//else
+//{
+ // Console.WriteLine((double)x / y);
+//}
